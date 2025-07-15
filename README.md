@@ -42,3 +42,44 @@ SaaS (Software as a Service)	Fully managed apps via browser. Gmail, Microsoft 36
 1.𝘿𝙚𝙩𝙚𝙘𝙩𝙞𝙤𝙣 𝙤𝙛 𝙡𝙞𝙜𝙝𝙩 𝙪𝙨𝙞𝙣𝙜 𝙋𝙝𝙤𝙩𝙤𝙧𝙚𝙜𝙞𝙨𝙩𝙤𝙧𝙨. 
 2.𝙄𝙣𝙩𝙚𝙧𝙛𝙖𝙘𝙞𝙣𝙜 𝙨𝙚𝙧𝙫𝙤𝙢𝙤𝙩𝙤𝙧 𝙬𝙞𝙩𝙝 𝘼𝙧𝙙𝙪𝙞𝙣𝙤. 
 𝘿𝘼𝙔6
+Data cleaning- Removing and fixing incorrect, incomplete and irrelevant data. 
+Data processing- Transforming raw data into suitable format for analysis & testing modelling. 
+Tasks in preprocessing
+1.Handling missing values. 
+2.Scaling
+3.Normalization
+𝘿𝘼𝙔 7
+Different types of graphs 
+-Line graph 
+-Bar graph 
+-Pie charts 
+-Scatter plots 
+-Histogram 
+Libraries used for representation of graphs 
+matplotlib- Basic and flexible tool to create graphs 
+Seaborn - It is advanced lib of matplot. 
+Real time data plotting :- libraries used 
+random- to simulate random data values. 
+time - to create time delay and measure time. 
+𝘿𝘼𝙔 8
+𝙀𝙭𝙥𝙡𝙤𝙧𝙖𝙩𝙤𝙧𝙮 𝘿𝙖𝙩𝙖 𝘼𝙣𝙖𝙡𝙮𝙨𝙞𝙨 (𝙀𝘿𝘼) 
+Exploratory Data Analysis (EDA) is the process of analyzing and visualizing data to understand its main characteristics before applying any machine learning or statistical models.
+Key purposes of EDA:
+Discover patterns in the data
+Identify outliers and anomalies
+Check assumptions (e.g., distribution of data)
+Summarize main features using statistics and visuals
+Common EDA Techniques:
+Descriptive statistics (mean, median, mode, standard deviation)
+Data visualization (histograms, box plots, scatter plots, heatmaps)
+Correlation analysis (to understand relationships between variables)
+In simple terms, EDA helps you get to know your data before doing deeper analysis or modeling.
+𝘿𝘼𝙔9 
+Machine learning
+Different types of learning in machine learning
+1.Supervised learning
+2.Unsupervised learning
+3.Reinforcement learning
+Two phases of machine learning
+Training phase. 
+Testing phase. 
